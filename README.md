@@ -41,7 +41,6 @@ I work across the stack — crafting responsive UIs with React, Tailwind CSS, an
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge\&logo=powershell\&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge\&logo=latex\&logoColor=white)
 
----
 
 ### 🌐 Web & App Development
 
@@ -62,7 +61,6 @@ I work across the stack — crafting responsive UIs with React, Tailwind CSS, an
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge\&logo=WordPress\&logoColor=white)
 
----
 
 ### ☁️ Cloud & DevOps
 
@@ -73,7 +71,6 @@ I work across the stack — crafting responsive UIs with React, Tailwind CSS, an
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge\&logo=render\&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge\&logo=netlify\&logoColor=#00C7B7)
 
----
 
 ### 🧪 Machine Learning & Data
 
@@ -90,7 +87,6 @@ I work across the stack — crafting responsive UIs with React, Tailwind CSS, an
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge\&logo=anaconda\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge\&logo=opencv\&logoColor=white)
 
----
 
 ### 💾 Databases
 
@@ -99,7 +95,6 @@ I work across the stack — crafting responsive UIs with React, Tailwind CSS, an
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge\&logo=microsoft%20sql%20server\&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
 
----
 
 ### 🧰 Tools & Platforms
 
@@ -112,18 +107,17 @@ I work across the stack — crafting responsive UIs with React, Tailwind CSS, an
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge\&logo=tor-project\&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge\&logo=apache\&logoColor=white)
 
----
 
 ### 🔧 Hardware / IoT
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge\&logo=Raspberry-Pi)
 
----
 
 ### 📊 Business Intelligence
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+
 
 
 # 📊 GitHub Stats:
