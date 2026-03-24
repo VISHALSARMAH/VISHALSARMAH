@@ -119,23 +119,6 @@ I work across the stack — crafting responsive UIs with React, Tailwind CSS, an
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 
 
-
-# 📊 GitHub Stats:
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=VISHALSARMAH&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VISHALSARMAH&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VISHALSARMAH&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=VISHALSARMAH&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
 ### ✍️ Random Dev Quote
 <div align="center">
 
